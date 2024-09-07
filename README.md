@@ -27,4 +27,5 @@ Contributions:
 Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request. Let's make Weather App even better together!
 
 Enjoy using Weather App to stay updated on weather conditions and plan your days accordingly! Your feedback and contributions are highly appreciated. If you have any questions or need further assistance, please don't hesitate to reach out.
-[Screenshot 2024-09-06 174210](https://github.com/user-attachments/assets/ab2bb72e-8fc1-4898-9bab-b2ec71276eea)
+
+![Screenshot 2024-09-06 174210](https://github.com/user-attachments/assets/f00f2e43-37f5-4efa-830a-2548ac803765)

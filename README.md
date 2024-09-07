@@ -19,10 +19,12 @@ How to Use:
 Technologies Used:
 HTML: Used for creating the structure and layout of the web pages.
 CSS: Used for styling and visual enhancements, providing an appealing user interface.
-JavaScript: Used to fetch weather data from the API, handle user location, and dynamically update the content based on the received data.
+JavaScript: Used to fetch weather d!
+ata from the API, handle user location, and dynamically update the content based on the received data.
 Weather API: The app integrates with a weather API to retrieve accurate and real-time weather information.
 
 Contributions:
 Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request. Let's make Weather App even better together!
 
 Enjoy using Weather App to stay updated on weather conditions and plan your days accordingly! Your feedback and contributions are highly appreciated. If you have any questions or need further assistance, please don't hesitate to reach out.
+[Screenshot 2024-09-06 174210](https://github.com/user-attachments/assets/ab2bb72e-8fc1-4898-9bab-b2ec71276eea)
